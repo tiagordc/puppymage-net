@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "puppymage": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\TEMP\\ces1.jpg C:\\TEMP\\SAVE"
+    }
+  }
+}
